@@ -30,6 +30,6 @@ By building this project, I improved my understanding of:
 - **DOM Manipulation:** Dynamically updating weather information on the page
 - **Event Handling:** Triggering searches and updating results based on user input
 - **UI Design:** Creating a modern and responsive weather interface
-- 
+
 
 ### 🚀 Live Demo : https://yusufkosardev.github.io/Weather-App-Project/
